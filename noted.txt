@@ -1,0 +1,8 @@
+INTRO TO JS
+
+console.log("Hello, World!");
+
+Phases of the JavaScript Execution Context
+
+Memory Allocation Phase: In this phase, all the functions and variables of the JavaScript code get stored as a key-value pair inside the memory component of the execution context. In the case of a function, JavaScript copied the whole function into the memory block but in the case of variables, it assigned undefined as a placeholder.
+Code Execution Phase: In this phase, the JavaScript code is executed one line at a time inside the Code Component (also known as the Thread of Execution) of the Execution Context. 
